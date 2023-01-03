@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/BigTalkDataStructures/mudo/p_study/threadtest2/CMakeFiles/thread.dir
+C:/Users/Administrator/Desktop/BigTalkDataStructures/mudo/p_study/threadtest2/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/BigTalkDataStructures/mudo/p_study/threadtest2/CMakeFiles/rebuild_cache.dir
