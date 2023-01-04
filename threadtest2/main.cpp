@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <mutex>
 #include <memory>
-
+//基于对象的方法
 using std::placeholders::_1;
 class deThread
 {
